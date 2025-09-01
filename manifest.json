@@ -1,0 +1,11 @@
+{
+	"name": "LootPoolLimiter",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Tizitendo/Onyx-ArtificerPlus",
+	"description": "Blacklist a set amount of random items",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.48",
+		"RoRRModdingToolkit-RoRR_Modding_Toolkit-1.2.1",
+		"SmoothSpatula-TomlHelper-1.0.1"
+	]
+}
